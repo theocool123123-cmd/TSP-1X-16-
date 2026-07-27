@@ -29,4 +29,5 @@ Power Distribution Board (PDB).
 
 ![Frame](FRAME.png)
 ![PCB/FRONT](3D-RenderBack.png)
+![PCB](3D-Render.png)
 
