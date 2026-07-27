@@ -26,4 +26,5 @@ Power Distribution Board (PDB).
 - [ ] Maiden flight
 - [ ] Thermal camera integration
 - [ ] Jetson Orin onboard object detection
+
 ![Frame](TSP-1X-16-/FRAME.png)
