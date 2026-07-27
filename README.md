@@ -28,3 +28,5 @@ Power Distribution Board (PDB).
 - [ ] Jetson Orin onboard object detection
 
 ![Frame](FRAME.png)
+![PCB/FRONT](3D-RenderBack.png)
+
