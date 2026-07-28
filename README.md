@@ -9,7 +9,7 @@ planned for a later stage.
 **Status:** Early build phase — frame and remaining motors not yet acquired. 
 Currently focused on the electronics, starting with a custom-designed 
 Power Distribution Board (PDB).
-
+Also waiting for possible sponsoring from PCBway https://www.pcbway.com/project/sponsor/PDB_for_TSP_1X_16_Hexacopter_Thermal_Autonomy_Testbed_f3894a7e.html
 ## Frame
 
 ![Frame](FRAME.png)
